@@ -73,8 +73,8 @@ Modülü test etmek için tarayıcınıza giderek url bölümüne aşağıda bul
 http://pharmacymodule/backend/web/index.php?r=pharmacymodule/home/index.php
 
 ```
-Modül tarayıcıda url üstünden çalıştırıldığı zaman ekrana 3 adet buton gelmektedir.
-
+**Modül tarayıcıda url üstünden çalıştırıldığı zaman ekrana 3 adet buton gelmektedir.**
+![butons](https://github.com/yenereminelibol/pharmacymodule/blob/main/readmeImages/mod%C3%BClhomeekran.png?raw=true)
 > 1. Eczane Ekle
 > 2. Depo Ekle
  >3. Depo Seç
@@ -93,6 +93,8 @@ Bu buton üzerinden tabloda var olan eczane ve depo bağlantılarını görebili
 
 # Proje Raporu
 Modül içerisinde bulunan migration dosyasında modül de kullanılacak  deposecme,  depolar, eczaneleradında 3 adet tablo oluşturulmuştur. Tablolar arasında foreign key ile ilişki kurulmuştur.
+![enter image description here](https://github.com/yenereminelibol/pharmacymodule/blob/main/readmeImages/proje%20tablo%20ba%C4%9Flant%C4%B1lar%C4%B1.PNG?raw=true)
+
 
 
 
