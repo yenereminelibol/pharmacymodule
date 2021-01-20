@@ -25,7 +25,7 @@ $this->registerCssFile('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/boot
             <img src="https://itimatkutu.com/fotograflar/pagelarge_triplex-koliler_1_20150808165920.jpg" alt="depo" style="width: 100%;" >
         </div>
         <div class="col-sm-6">
-            <?= Html::a('Depoya Ekle', ['depolar/index'],
+            <?= Html::a('Depo Ekle', ['depolar/index'],
                 [
                         'class' => 'btn btn-success btn-block',
                         'style' => 'padding:20px;',
