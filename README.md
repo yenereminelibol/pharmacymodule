@@ -102,6 +102,8 @@ Bu buton üzerinden tabloda var olan depoları görebilirsiniz. Eczane eklemek i
 
 ## Depo Seç
 Bu buton üzerinden tabloda var olan eczane ve depo bağlantılarını görebilirsiniz. Yeni bağlantı eklemek için **create deposecme** butonuna bastıktan sonra Depo Ad, Eczane Ad alanlarına girişleri yaparak yeni bağlantı girişi yapabilirsiniz. 
+
+**Depo Ad ve Eczane Ad sadece önceden eklenmiş eczane ve depolar için geçerlidir alanlar boş geçilemez** 
 ![enter image description here](https://github.com/yenereminelibol/pharmacymodule/blob/main/readmeImages/depoSe%C3%A7me.PNG?raw=true)
 
 **Create Deposecme basıldıktan sonra**
